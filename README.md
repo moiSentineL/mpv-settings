@@ -1,4 +1,5 @@
 # mpv-settings
+## README NOT UPDATED YET :(
 my settings for MPV (Windows/Mac/Linux Compatible)
 
 might not be suitable for your pc, but if you have any recommendations, just tell me, 
